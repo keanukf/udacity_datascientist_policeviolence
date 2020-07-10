@@ -13,4 +13,4 @@ I also wrote a blog article including my findings from this analysis, which you 
 
 This is a calendar view where the number of killings of black people by police. You can find other images out of the notebook within the `images`folder.
 
-[Police killings - The unjust violence will not diminish](images/calendarplot.png)
+![Police killings - The unjust violence will not diminish](images/calendarplot.png)
